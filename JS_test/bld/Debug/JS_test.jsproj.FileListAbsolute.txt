@@ -1,0 +1,17 @@
+C:\Users\Tore\source\repos\JS_test\JS_test\bin\Debug\ReverseMap\resources.pri
+C:\Users\Tore\source\repos\JS_test\JS_test\bin\Debug\AppxManifest.xml
+C:\Users\Tore\source\repos\JS_test\JS_test\bin\Debug\JS_test.build.appxrecipe
+C:\Users\Tore\source\repos\JS_test\JS_test\bld\Debug\JS_test.jsproj.CoreCompileInputs.cache
+C:\Users\Tore\source\repos\JS_test\JS_test\bld\Debug\ResourceHandlingTask.state
+C:\Users\Tore\source\repos\JS_test\JS_test\bld\Debug\priconfig.xml
+C:\Users\Tore\source\repos\JS_test\JS_test\bld\Debug\priconfig.xml.intermediate
+C:\Users\Tore\source\repos\JS_test\JS_test\bld\Debug\layout.resfiles
+C:\Users\Tore\source\repos\JS_test\JS_test\bld\Debug\layout.resfiles.intermediate
+C:\Users\Tore\source\repos\JS_test\JS_test\bld\Debug\resources.resfiles
+C:\Users\Tore\source\repos\JS_test\JS_test\bld\Debug\resources.resfiles.intermediate
+C:\Users\Tore\source\repos\JS_test\JS_test\bld\Debug\pri.resfiles
+C:\Users\Tore\source\repos\JS_test\JS_test\bld\Debug\pri.resfiles.intermediate
+C:\Users\Tore\source\repos\JS_test\JS_test\bld\Debug\qualifiers.txt
+C:\Users\Tore\source\repos\JS_test\JS_test\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Tore\source\repos\JS_test\JS_test\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Tore\source\repos\JS_test\JS_test\bld\Debug\ProjectArchitectures.txt

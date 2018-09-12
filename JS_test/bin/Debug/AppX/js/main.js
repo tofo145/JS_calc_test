@@ -8,13 +8,6 @@
     return results;
 }
 
-var assert = require('assert');
-assert.deepEqual(tokenize("123\n"), ["123"]);
-assert.deepEqual(tokenize("2+2"), ["2", "+", "2"]);
-assert.deepEqual(tokenize("+-*/"), ["+", "-", "*", "/"]);
-assert.deepEqual(tokenize("   1   * 24 +\n\n  pi"), ["1", "*", "24", "+", "pi"]);
-assert.deepEqual(tokenize("()"), ["(", ")"]);
-assert.deepEqual(tokenize("    "), []);
 
 function isNumber(token) {
     return token !== undefined && token.match(/^[0-9]+$/) !== null;
@@ -24,11 +17,6 @@ function isName(token) {
     return token !== undefined && token.match(/^[A-Za-z]+$/) !== null;
 }
 
-assert(isNumber("123"));
-assert(!isNumber("x"));
-assert(!isNumber("-"));
-assert(isName("xyz"));
-assert(!isName("+"));
 
 function parse(code) {
     var tokens = tokenize(code);

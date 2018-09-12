@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAPTOP-RQ63UGD5</Machine>
+    <WindowsUser>Tore</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4b25adfc-1d43-46de-b324-70ddf69b4b3b</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Tore</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Tore\source\repos\JS_test\JS_test\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\Tore\source\repos\JS_test\JS_test\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>CB389F0BF4C267F0AB20FB6196C547710672D6013D03F16697E32F5EF79D666E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4b25adfc-1d43-46de-b324-70ddf69b4b3b_1.0.0.0_neutral__w7afehbc0cxhj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4b25adfc-1d43-46de-b324-70ddf69b4b3b_w7afehbc0cxhj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4b25adfc-1d43-46de-b324-70ddf69b4b3b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Tore</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Tore\source\repos\JS_test\JS_test\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-12T12:12:46.459</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Tore\source\repos\JS_test\JS_test\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2018-09-11T10:13:16.346</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tore\source\repos\JS_test\JS_test\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2017-12-05T09:11:36.710</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tore\source\repos\JS_test\JS_test\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-05T09:11:36.710</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tore\source\repos\JS_test\JS_test\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-05T09:11:36.710</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tore\source\repos\JS_test\JS_test\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-05T09:11:36.710</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tore\source\repos\JS_test\JS_test\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-05T09:11:36.710</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tore\source\repos\JS_test\JS_test\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-05T09:11:36.710</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tore\source\repos\JS_test\JS_test\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-05T09:11:36.710</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tore\source\repos\JS_test\JS_test\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2018-09-12T12:13:59.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tore\source\repos\JS_test\JS_test\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2018-09-11T10:13:16.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tore\source\repos\JS_test\JS_test\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-12T12:12:46.309</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
